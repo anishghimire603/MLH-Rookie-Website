@@ -1,0 +1,28 @@
+body {
+  font-family: "Open Sans", helvetica, arial, sans-serif;
+  margin: 3%;
+}
+
+h1 {
+  color: DodgerBlue;
+}
+
+h2{
+  color: DimGray;
+}
+
+.main{
+  display: flex;
+  jutify-content: space-around;
+  height: 70vh;
+}
+
+.left, .right{
+  width: 46vm;
+}
+
+img{
+  height: 40vh;
+  widdth: auto;
+  margin: 3vh 0;
+}
