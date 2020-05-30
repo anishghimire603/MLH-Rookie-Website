@@ -10,7 +10,7 @@ Your Project
 
 ### ← README.md
 
-That's this file, where you can tell people what your cool website does and how you built it.
+Created basic cool website in MLH Rookie hackathon workshop
 
 ### ← index.html
 
@@ -35,4 +35,4 @@ Click `Show` in the header to see your app live. Updates to your code will insta
 
 Find out more [about Glitch](https://glitch.com/about).
 
-\ ゜o゜)ノ
+Website:https://groovy-elfin-cause.glitch.me/
